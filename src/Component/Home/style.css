@@ -1,0 +1,41 @@
+.homeInfo{
+    display: flex;
+    justify-content:center;
+    
+    
+}
+
+.h1Div{
+ width: 500px !important;
+ text-align: left;   
+
+
+}
+
+.h1Div h1{
+    font-size: 5rem;
+    font-weight: 900;
+    line-height: 5rem;
+    margin: 1rem;
+    padding: 0%;
+    
+}
+
+.description{
+    width: 370px;
+    margin-left: 0.5rem;
+}
+
+.btns{
+    display: flex;
+    margin-left: 0.5rem;
+    padding: 0%;
+}
+
+.flipkatImg{
+    margin-left: 1rem;
+}
+
+.shopimg{
+    margin-bottom: 2rem;
+}
